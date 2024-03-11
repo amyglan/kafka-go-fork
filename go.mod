@@ -12,5 +12,3 @@ require (
 )
 
 retract [v0.4.36, v0.4.37]
-
-replace github.com/segmentio/kafka-go => github.com/amyglan/kafka-go-fork v0.4.48
